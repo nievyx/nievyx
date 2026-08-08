@@ -3,11 +3,7 @@
 I'm a software engineering student and former freelance web developer. I am focused primarily on backend development, with experience across Python, web development, APIs, and modern frontend tooling.
 
 > 🚧 **Profile refresh in progress**
->
 > Most of the repositories currently pinned here are older learning projects and aren't representative of my current work.
-> I'm currently updating this profile with newer projects, documentation, and case studies.
-
-More coming soon.
 <!--
 **nievyx/nievyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
