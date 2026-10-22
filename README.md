@@ -40,6 +40,16 @@ A Python terminal RPG featuring turn-based combat, maps, character classes and i
 
 My interactive, retro desktop-inspired portfolio, built with React. Explore projects through a playful window-based interface.
 
+<p align="center">
+  <a href="https://www.niamh.world">
+    <img
+      src="https://niamhdev.com/assets/imgs/react-fake-os/demo.gif"
+      alt="Niamh World interactive portfolio demo"
+      width="320"
+    />
+  </a>
+</p>
+
 ### 🔗 Find Me
 
 - 🌐 [Niamh World](https://www.niamh.world)
