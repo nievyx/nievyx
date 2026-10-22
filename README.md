@@ -32,7 +32,7 @@ A C++ implementation of Tic-Tac-Toe featuring an unbeatable opponent powered by 
 
 A Python terminal RPG featuring turn-based combat, maps, character classes and inventory systems.
 
-![Terminal RPG gameplay](https://raw.githubusercontent.com/nievyx/class-based-rpg-python/main/data/demo.gif)
+<!-- ![Terminal RPG gameplay](https://raw.githubusercontent.com/nievyx/class-based-rpg-python/main/data/demo.gif) -->
 
 ### 🖥️ Explore Niamh World
 
