@@ -25,7 +25,7 @@ A full-stack tabletop game management application using Python, FastAPI, raw SQL
 **[Niamh's Monster Cards](https://github.com/nievyx/card_pygame)** 
 
 A turn-based card battle game built with Python and Pygame, featuring AI opponents, spells, wave-based battles and resource management.
-Play now
+
 <p align="center">
   <a href="https://nievyx.github.io/monster-cards/">
     <img
@@ -35,7 +35,7 @@ Play now
     />
   </a>
 </p>
-
+Play now
 **[Tic-Tac-Toe Minimax AI](https://github.com/nievyx/tictactoe-minimax-ai)**
 
 A C++ implementation of Tic-Tac-Toe featuring an unbeatable opponent powered by recursive Minimax game-tree evaluation.
