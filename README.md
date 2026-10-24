@@ -44,14 +44,12 @@ My interactive, retro desktop-inspired portfolio, built with React. Explore proj
 <p align="center">
   <a href="https://www.niamh.world">
     <img
-      src="https://niamhdev.com/assets/imgs/react-fake-os/demo.gif"
+      src="assets/niamh-world.gif"
       alt="Niamh World interactive portfolio demo"
       width="320"
     />
   </a>
 </p>
-
-<img src="assets/niamh-world.gif" width="320" alt="Niamh World demo">
 
 ### 🔗 Find Me
 
