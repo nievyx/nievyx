@@ -1,4 +1,4 @@
-# Hi, I'm Niamh! 👋
+# Hi, I'm Niamh! 🌱
 
 I'm a Software Engineering student with a particular interest in **Python, backend development, databases and algorithms**.
 
@@ -40,6 +40,7 @@ A Python terminal RPG featuring turn-based combat, maps, character classes and i
 
 My interactive, retro desktop-inspired portfolio, built with React. Explore projects through a playful window-based interface.
 
+
 <p align="center">
   <a href="https://www.niamh.world">
     <img
@@ -49,6 +50,8 @@ My interactive, retro desktop-inspired portfolio, built with React. Explore proj
     />
   </a>
 </p>
+
+<img src="assets/niamh-world.gif" width="320" alt="Niamh World demo">
 
 ### 🔗 Find Me
 
