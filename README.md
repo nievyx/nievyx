@@ -22,10 +22,10 @@ I enjoy learning by building things, solving problems and figuring out how softw
 
 A full-stack tabletop game management application using Python, FastAPI, raw SQL, React and Docker Compose. Features a relational database and REST API for managing game data.
 
-**[Niamh's Monster Cards](https://github.com/nievyx/card_pygame)** Play now
+**[Niamh's Monster Cards](https://github.com/nievyx/card_pygame)** 
 
 A turn-based card battle game built with Python and Pygame, featuring AI opponents, spells, wave-based battles and resource management.
-
+Play now
 <p align="center">
   <a href="https://nievyx.github.io/monster-cards/">
     <img
