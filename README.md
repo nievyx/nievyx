@@ -26,6 +26,16 @@ A full-stack tabletop game management application using Python, FastAPI, raw SQL
 
 A turn-based card battle game built with Python and Pygame, featuring AI opponents, spells, wave-based battles and resource management.
 
+<p align="center">
+  <a href="https://www.niamh.world">
+    <img
+      src="https://niamhdev.com/assets/imgs/niamhs-monster-cards/demo.gif"
+      alt="Niamh World interactive portfolio demo"
+      width="320"
+    />
+  </a>
+</p>
+
 **[Tic-Tac-Toe Minimax AI](https://github.com/nievyx/tictactoe-minimax-ai)**
 
 A C++ implementation of Tic-Tac-Toe featuring an unbeatable opponent powered by recursive Minimax game-tree evaluation.
