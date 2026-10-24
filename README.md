@@ -27,7 +27,7 @@ A full-stack tabletop game management application using Python, FastAPI, raw SQL
 A turn-based card battle game built with Python and Pygame, featuring AI opponents, spells, wave-based battles and resource management.
 
 <p align="center">
-  <a href="www.nievyx.github.io/monster-cards">
+  <a href="https://nievyx.github.io/monster-cards/">
     <img
       src="assets/monster-cards.gif"
       alt="Niamh World interactive portfolio demo"
