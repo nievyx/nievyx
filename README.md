@@ -10,6 +10,8 @@ I enjoy learning by building things, solving problems and figuring out how softw
 
 **Languages:** Python, SQL, C++, JavaScript, TypeScript
 
+**Scripting:** Bash (learning)
+
 **Backend:** FastAPI, Flask, Django, REST APIs, SQLite
 
 **Tools:** Git, Linux, Docker, VS Code
