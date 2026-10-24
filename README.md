@@ -29,7 +29,7 @@ A turn-based card battle game built with Python and Pygame, featuring AI opponen
 <p align="center">
   <a href="https://www.niamh.world">
     <img
-      src="https://niamhdev.com/assets/imgs/niamhs-monster-cards/demo.gif"
+      src="assets/monster-cards.gif"
       alt="Niamh World interactive portfolio demo"
       width="320"
     />
